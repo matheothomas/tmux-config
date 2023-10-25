@@ -1,4 +1,4 @@
-# tmux-config
+# Tmux configuration
 
 This is my personal tmux configuration, as a computer science student.
 
@@ -7,9 +7,22 @@ This is my personal tmux configuration, as a computer science student.
 
 ## Plugins
 
+## Requirements
+Make sure that tmux is installed (see [tmux installation page](https://github.com/tmux/tmux/wiki/Installing)).
+
 ## Installation
 
-First install tmux (see tmux page).
+Import the files with :
 ```bash
-apt-get install tmux
+git clone https://github.com/matheothomas/tmux-config
+```
+
+Make the `tmux_configurator.sh` executable with :
+```bash
+chmod 744 tmux_configurator.sh
+```
+
+Execute the bash script :
+```bash
+./tmux_configurator.sh
 ```
