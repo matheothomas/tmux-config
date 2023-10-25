@@ -31,3 +31,4 @@ Execute the bash script :
 ```bash
 ./tmux_configurator.sh
 ```
+
