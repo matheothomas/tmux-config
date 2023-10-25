@@ -2,7 +2,7 @@
 
 This is my personal tmux configuration, as a computer science student.
 
-*I followed (this tutorial)[https://www.josean.com/posts/tmux-setup]*
+*I followed [this tutorial](https://www.josean.com/posts/tmux-setup).*
 ## Content
 
 ## Plugins
