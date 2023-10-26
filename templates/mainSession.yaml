@@ -1,0 +1,12 @@
+session_name: main session
+windows:
+  - window_name: dev
+    layout: 8532,118x69,0,0{56x69,0,0,1,61x69,57,0[61x33,57,0,2,61x35,57,34,3]} 
+    #shell_command_before:
+    #  - clear
+    panes:
+      - focus: 'true' 
+      - 
+      - ls
+  - window_name: terminal
+    start_directory: ~/
