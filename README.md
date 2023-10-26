@@ -42,7 +42,7 @@ To open tmux with the tmuxp template :
 ```bash
 tmuxp load mainSession
 ```
-You can then navigate between the panes with the vim keybinds (Ctrl+hjkl).
+You can then navigate between the panes with the vim keybinds (`Ctrl+hjkl`).
 
 To close tmux :
 ```bash
