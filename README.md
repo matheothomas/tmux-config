@@ -42,6 +42,8 @@ To open tmux with the tmuxp template :
 ```bash
 tmuxp load mainSession
 ```
+When opening for the first time, install the plugins with `Ctrl+a I`.
+
 You can then navigate between the panes with the vim keybinds (`Ctrl+hjkl`).
 
 To close tmux :
